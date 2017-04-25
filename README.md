@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository aims to provide the most updated list of penalties for Shooting 10m Olympic Events based on the latest [International Shooting Sport Federation (ISSF) Rules](http://www.issf-sports.org/theissf/rules.ashx), for usage in SIUSRank.
+This repository aims to provide the most updated list of penalties for Shooting Olympic Events based on the latest [International Shooting Sport Federation (ISSF) Rules](http://www.issf-sports.org/theissf/rules.ashx), for usage in SIUSRank.
 
 This repository also aims to provide a library of the flags of shooting clubs and schools which are active in the Singapore shooting scene, for usage in local competitions such as the National University of Singapore Invitational Shoot (NUSIS).
 
