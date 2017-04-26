@@ -62,7 +62,7 @@
   <Penalty Text="ISSF Rule 9.9.2.h Load gun on Station 6 - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 9.16.4.1 Green Card" Value="-1" />
   <Penalty Text="ISSF Rule 9.16.4.2 Uncompleted Round" Value="0" />
-  <Penalty Text="ISSF Rule 9.16.4.4(b) Absent Athlete" Value="-3" />
+  <Penalty Text="ISSF Rule 9.16.4.4.b Absent Athlete" Value="-3" />
   <Penalty Text="ISSF Rule 9.16.5.2 Red Card - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 9.18.2.1.c Athlete did not report on time" Value="-1" />
   <Penalty Text="ISSF Rule 9.18.6.d Protest in finals lost" Value="-2" />
