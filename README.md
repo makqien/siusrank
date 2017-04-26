@@ -6,6 +6,16 @@ This repository aims to provide the most updated list of penalties for Shooting 
 
 This repository also aims to provide a library of the flags of shooting clubs and schools which are active in the Singapore shooting scene, for usage in local competitions such as the National University of Singapore Invitational Shoot (NUSIS).
 
+## Table of Contents
+
+* [Description](#description)
+* [Installation](#installation)
+  * [Penalties.xml](#penaltiesxml)
+  * [Flags](#flags)
+* [Contributing](#contributing)
+* [License](#license)
+* [Additional Resources](#additional-resources)
+
 ## Installation
 
 Download the entire repository as a ZIP file by clicking [here](../../archive/master.zip).
@@ -41,3 +51,16 @@ The images with the file name *\*_Indiv.png* are intended to be used as an athle
     \---ExternalData
         \---Flags
 ```
+
+## Contributing
+
+See [here](/CONTRIBUTING.md).
+
+## License
+
+See [here](/LICENSE).
+
+## Additional Resources
+
+* [SIUS Tutorials (Google Drive)](https://drive.google.com/open?id=0B4lQcC6fvYITUEI5SWhuVGdYbkU)
+* [Update SIUSRank, SIUSData, SIUSLoader for ISSF Rules 2017](http://www.sius.com/support/knowledgebase.php?article=90)
