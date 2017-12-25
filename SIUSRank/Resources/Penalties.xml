@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- ISSF Official Statutes Rules and Regulations Edition 2017 | First Print V1.1 03/2017 -->
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- ISSF Official Statutes Rules and Regulations Edition 2017 | Second Print 01/2018 -->
 <!-- Penalties for Olympic Events only -->
 <Penalties>
   <Penalty Text="ISSF Rule 5.9 Doping - Individual DQB" Value="0" />
-  <Penalty Text="ISSF Rule 5.11.1.2 Doping - Team DQB" Value="0" />
-  <Penalty Text="ISSF Rule 6.2.2.b Refused to use safety flag after being warned - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 5.11.2 Doping - Team DQB" Value="0" />
+  <Penalty Text="ISSF Rule 6.2.2.c Refused to use safety flag after being warned - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.2.3.5 Shot(s) early or late - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.7.9.1 Equipment failed post-competition check - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.7.9.1.a Rifle shooting clothing failed post-competition check - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.7.9.1.b Pistol trigger weight failed post-competition check - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 6.7.9.1.e Failed to report for a post-competition check - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.10.5.c Original firing point provided correct results" Value="-2" />
   <Penalty Text="ISSF Rule 6.11.1.1.i Shot(s) before Preparation and Sighting Time - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.11.1.1.l Shot fired after Preparation and Sighting Time and before MATCH Firing" Value="-2" />
@@ -17,6 +18,7 @@
   <Penalty Text="ISSF Rule 6.11.6.3 Cross shot in sighters" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.4.c Disturbed another athlete" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.4.c Disturbed another athlete - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 6.12.5.4 Team official coaching rule violation" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.6.1.a Fault not corrected after warning" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.6.1.a Fault not corrected after warning - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.12.6.1.b Fault deliberately concealed - DSQ" Value="0" />
@@ -28,10 +30,13 @@
   <Penalty Text="ISSF Rule 6.17.1.3 Athlete did not report on time" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.e Dry firing after Preparation and Sighting Time" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.1.13.e Dry firing before Preparation and Sighting Time" Value="-1" />
+  <Penalty Text="ISSF Rule 6.17.1.13.e Dry firing in finals" Value="-1" />
+  <Penalty Text="ISSF Rule 6.17.1.13.f Loading too early" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.h Shot fired before Preparation and Sighting Time in finals - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.17.1.13.i Shot fired after Preparation and Sighting Time and before next competition series in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.j Shot fired before green light in finals" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.1.13.k Extra shot in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.1.13.k Extra shot in series" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.4.k Late shot in finals" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.4.k Targets not shot in time in finals" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.4.l Ready position violation in finals" Value="-2" />
@@ -40,7 +45,10 @@
   <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.17.6.d Protest in finals not upheld" Value="-2" />
+  <Penalty Text="ISSF Rule 6.18.3.10 Shots out of order" Value="-2" />
+  <Penalty Text="ISSF Rule 6.18.3.12 Shots out of order" Value="-2" />
   <Penalty Text="ISSF Rule 6.A.4.3.b Too many shots per paper target" Value="-2" />
+  <Penalty Text="ISSF Rule 8.4.2.3 Failed post competition trigger test" Value="0" />
   <Penalty Text="ISSF Rule 8.7.4.c Ready position violation" Value="-2" />
   <Penalty Text="ISSF Rule 8.7.4.d Ready position violation - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 8.7.6.2.d Load with more than 5 cartridges" Value="-2" />
@@ -53,8 +61,8 @@
   <Penalty Text="ISSF Rule 8.8.3.c Range Commands" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.4.2.f Disturbances - claim not justified" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.5.1.b Timing - claim is not justified" Value="-2" />
-  <Penalty Text="ISSF Rule 9.3.c Intefere with range equipment" Value="-1" />
-  <Penalty Text="ISSF Rule 9.3.c Intefere with range equipment - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 9.3.c Interfere with range equipment" Value="-1" />
+  <Penalty Text="ISSF Rule 9.3.c Interfere with range equipment - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 9.4.1 Equipment violation" Value="-5" />
   <Penalty Text="ISSF Rule 9.5.6.3 Absent as Assistant Referee" Value="-1" />
   <Penalty Text="ISSF Rule 9.8.2.j Load gun on Station 6 - DSQ" Value="0" />
@@ -64,6 +72,6 @@
   <Penalty Text="ISSF Rule 9.16.4.2 Uncompleted Round" Value="0" />
   <Penalty Text="ISSF Rule 9.16.4.4.b Absent Athlete" Value="-3" />
   <Penalty Text="ISSF Rule 9.16.5.2 Red Card - DSQ" Value="0" />
-  <Penalty Text="ISSF Rule 9.18.2.1.c Athlete did not report on time" Value="-1" />
+  <Penalty Text="ISSF Rule 9.18.2.2.c Athlete did not report on time" Value="-1" />
   <Penalty Text="ISSF Rule 9.18.6.d Protest in finals lost" Value="-2" />
 </Penalties>
