@@ -33,7 +33,7 @@
   <Penalty Text="ISSF Rule 6.17.1.13.e Dry firing in finals" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.1.13.f Loading too early" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.h Shot fired before Preparation and Sighting Time in finals - DSQ" Value="0" />
-  <Penalty Text="ISSF Rule 6.17.1.13.i Shot fired after Preparation and Sighting Time and before next competition series in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.1.13.i Shot fired after Sighting Time and before next competition series in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.j Shot fired before green light in finals" Value="-1" />
   <Penalty Text="ISSF Rule 6.17.1.13.k Extra shot in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.13.k Extra shot in series" Value="-2" />
