@@ -30,7 +30,7 @@ Subsequent changes to *Penalties.xml* will ***not*** change the penalties in you
 1. Go to the program directory of SIUSRank on your computer. A possible directory is *C:\SIUS\SIUSRank*.
 1. Go to the **Resources** folder.
 1. Rename the existing *Penalties.xml* on your computer to *Penalties.xml.bak*.
-1. Copy the *Penalties.xml* from the ZIP file into the **Resources** folder.
+1. Download the *Penalties.xml* [here](../../raw/master/SIUSRank/Resources/Penalties.xml) (right click followed by Save Link As...) and save into the **Resources** folder.
 
 ### Flags
 
