@@ -45,6 +45,7 @@
   <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.17.6.d Protest in finals not upheld" Value="-2" />
+  <Penalty Text="ISSF Rule 6.18.3.6 Team member(s) did not report on time" Value="-2" />
   <Penalty Text="ISSF Rule 6.18.3.10 Shots out of order" Value="-2" />
   <Penalty Text="ISSF Rule 6.18.3.12 Shots out of order" Value="-2" />
   <Penalty Text="ISSF Rule 6.A.4.3.b Too many shots per paper target" Value="-2" />
