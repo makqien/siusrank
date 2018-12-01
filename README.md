@@ -63,4 +63,3 @@ See [here](/LICENSE).
 ## Additional Resources
 
 * [SIUS Tutorials (Google Drive)](https://drive.google.com/open?id=0B4lQcC6fvYITUEI5SWhuVGdYbkU)
-* [Update SIUSRank, SIUSData, SIUSLoader for ISSF Rules 2017](http://www.sius.com/support/knowledgebase.php?article=90)
