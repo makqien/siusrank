@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- ISSF Official Statutes Rules and Regulations Edition 2022 First Print 01/2023 V02 -->
+<!-- ISSF Official Statutes Rules and Regulations Edition 2022 First Print 01/2023 -->
 <!-- Penalties for Rifle and Pistol Olympic Events and 10m Mixed Team Events only -->
 <Penalties>
   <Penalty Text="ISSF Rule 5.9 Doping - Individual AD-DSQ" Value="0" />
   <Penalty Text="ISSF Rule 5.11.2 Doping - Team AD-DSQ" Value="0" />
-  <Penalty Text="ISSF Rule 6.2.2.c Refused to use safety flag after being warned - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 6.2.2.2.c Refused to use safety flag after being warned - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.2.3.5 Shot(s) early or late - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.7.9.1 Equipment failed post-competition check - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.7.9.1.a Rifle shooting clothing failed post-competition check - DSQ" Value="0" />
@@ -59,7 +59,7 @@
   <Penalty Text="ISSF Rule 8.8.2.1.a Too many shots fired" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.2.1.c Two shots during an exposure" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.2.2 Too many sighting shots fired" Value="-2" />
-  <Penalty Text="ISSF Rule 8.8.2.3 Early and late shots" Value="-2" />
+  <Penalty Text="ISSF Rule 8.8.2.3.a Early and late shots" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.3.c Range Commands" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.4.2.f Disturbances - claim not justified" Value="-2" />
   <Penalty Text="ISSF Rule 8.8.5.1.b Timing - claim is not justified" Value="-2" />
