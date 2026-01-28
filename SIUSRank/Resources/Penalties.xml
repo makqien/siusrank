@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!-- ISSF Official Statutes Rules and Regulations Edition 2022 First Print 01/2023 -->
+<!-- ISSF Official Statutes Rules and Regulations Edition 2025 First Print 12/2025 -->
 <!-- Penalties for Rifle and Pistol Olympic Events and 10m Mixed Team Events only -->
 <Penalties>
   <Penalty Text="ISSF Rule 5.9 Doping - Individual AD-DSQ" Value="0" />
@@ -20,7 +20,7 @@
   <Penalty Text="ISSF Rule 6.11.6.3 Cross shot in sighters" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.4.c Disturbed another athlete" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.4.c Disturbed another athlete - DSQ" Value="0" />
-  <Penalty Text="ISSF Rule 6.12.5.4 Team official coaching rule violation" Value="-2" />
+  <Penalty Text="ISSF Rule 6.12.5.5 Team official coaching rule violation" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.6.1.a Fault not corrected after warning" Value="-2" />
   <Penalty Text="ISSF Rule 6.12.6.1.a Fault not corrected after warning - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.12.6.1.b Fault deliberately concealed - DSQ" Value="0" />
@@ -37,15 +37,18 @@
   <Penalty Text="ISSF Rule 6.17.1.14.h Shot fired before Preparation and Sighting Time in finals - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.17.1.14.i Shot fired after Sighting Time and before next competition series in finals" Value="-2" />
   <Penalty Text="ISSF Rule 6.17.1.14.j Shot fired before green light in finals" Value="-1" />
-  <Penalty Text="ISSF Rule 6.17.1.14.k Extra shot in finals" Value="-2" />
-  <Penalty Text="ISSF Rule 6.17.3.n Dismantle or adjust rifle before Changeover and Sighting Time in finals" Value="-2" />
-  <Penalty Text="ISSF Rule 6.17.4.k Late shot in finals" Value="-1" />
-  <Penalty Text="ISSF Rule 6.17.4.k Targets not shot in time in finals" Value="-1" />
-  <Penalty Text="ISSF Rule 6.17.4.l Ready position violation in finals" Value="-2" />
-  <Penalty Text="ISSF Rule 6.17.4.l Ready position violation in finals - DSQ" Value="0" />
-  <Penalty Text="ISSF Rule 6.17.4.m Non-allowable malfunction in finals" Value="-2" />
-  <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals" Value="-2" />
-  <Penalty Text="ISSF Rule 6.17.5.k Ready position violation in finals - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 6.17.1.14.k Shot fired after LOAD command but before START command in finals" Value="0" />
+  <Penalty Text="ISSF Rule 6.17.1.14.l Extra shot in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.3.e Assistance required whilst on FOP in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.4.m Late shot in finals" Value="-1" />
+  <Penalty Text="ISSF Rule 6.17.4.m Targets not shot in time in finals" Value="-1" />
+  <Penalty Text="ISSF Rule 6.17.4.m Irregular shots in finals" Value="-1" />
+  <Penalty Text="ISSF Rule 6.17.4.n Ready position violation in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.4.n Ready position violation in finals - DSQ" Value="0" />
+  <Penalty Text="ISSF Rule 6.17.4.o Non-allowable malfunction in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.4.p Coach assistance at Ammunition Area in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.5.j Ready position violation in finals" Value="-2" />
+  <Penalty Text="ISSF Rule 6.17.5.j Ready position violation in finals - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.18.2.4.d Shot fired before Preparation and Sighting Time" Value="0" />
   <Penalty Text="ISSF Rule 6.18.2.4.d Shot fired before Preparation and Sighting Time - DSQ" Value="0" />
   <Penalty Text="ISSF Rule 6.18.3.4.b Team member(s) did not report on time" Value="-2" />
